@@ -2,7 +2,7 @@
 
 Welcome to the **E-commerce Price Monitoring Dashboard** – a sleek, end-to-end data pipeline solution that fetches, transforms, and displays product data from multiple e-commerce APIs in real time. 🚀
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=E-commerce+Dashboard+Preview)
+![Dashboard Preview](https://webcrawling-84mcpsiwjnpdxe8iijpth8.streamlit.app/)
 
 ## Overview
 
